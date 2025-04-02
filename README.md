@@ -1,0 +1,1 @@
+# Ranting Codger Notes

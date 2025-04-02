@@ -1,0 +1,6 @@
+[book]
+authors = ["Old Codger"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ranting Codger Notes"
